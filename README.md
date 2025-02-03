@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Jean Douaihy Graduated from the American University of Beirut with a Bachelor in Computer Science 👋
 
 <!--
 **douaihyjean/douaihyjean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
